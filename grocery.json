@@ -1,14 +1,16 @@
 {
     "grocery":[
         {
+            "Slno": "1",
         "Name":"Rice",
         "Ouantity":"5",
         "Unit": "Kg",
         "Department": "Grains",
-        "Notes": "Palakkad Matt"
+        "Notes": "Palakkad Matta"
 
         },
         {
+            "Slno": "2",
             "Name":"Green Peas",
             "Ouantity":"500",
             "Unit": "gm",
@@ -16,6 +18,7 @@
             "Notes": "Frozen"
         },
         {
+            "Slno": "3",
             "Name":"Milk",
             "Ouantity": "2",
             "Unit": "Packets",
@@ -23,6 +26,7 @@
             "Notes": "Blue colored packet"
         },
         {
+            "Slno": "4",
             "Name":"Soya Bean",
             "Ouantity": "1",
             "Unit": "Kg",
@@ -30,6 +34,7 @@
             "Notes": "Not Soya Chunks"
         },
         {
+            "Slno": "5",
             "Name":"Oats",
             "Ouantity":"2",
             "Unit": "Kg",
@@ -37,6 +42,7 @@
             "Notes": "Check expiry dates"
         },
         {
+            "Slno": "6",
             "Name":"Cumin",
             "Ouantity": "100",
             "Unit": "gm",
@@ -44,6 +50,7 @@
             "Notes": "Not Kashmiri but the normal ones"
         },
         {
+            "Slno": "7",
             "Name":"Fenugreek",
             "Ouantity": "100",
             "Unit": "gm",
@@ -52,6 +59,7 @@
 
         },
         {
+            "Slno": "8",
             "Name":"Oil",
             "Ouantity": "2",
             "Unit": "Kg",
@@ -59,6 +67,7 @@
             "Notes": "Coconut Oil"
         },
         {
+            "Slno": "9",
             "Name":"Paneer",
             "Ouantity": "500",
             "Unit": "gm",
@@ -66,6 +75,7 @@
             "Notes": "Frozen ones and  check expiry dates"
         },
         {
+            "Slno": "10",
             "Name":"Cucumber",
             "Ouantity": "500",
             "Unit": "gm",

@@ -12,10 +12,12 @@ function ajax(){
             // just for testing console.log(responses);
             var Jgrocery = responses.grocery;
             // just for testing console.log(Jpeople);
+
             var output = "";
             for(var i = 0; i<Jgrocery.length; i++)
             {
                 output += `<tr>
+                <td>${Jgrocery[i].Slno}</td>
                 <td>${Jgrocery[i].Name}</td>
                 <td>${Jgrocery[i].Ouantity}</td>
                 <td>${Jgrocery[i].Unit}</td>
