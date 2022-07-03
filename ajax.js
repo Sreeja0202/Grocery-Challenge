@@ -25,10 +25,15 @@ function ajax(){
                 <td>${Jgrocery[i].Notes}</td>
                 </tr>`;
             }
+            
             document.getElementById("table_body").innerHTML = output;
+            
         }
+        
     
     }
     xhttp.open("GET", "./grocery.json", true);
         xhttp.send();
+        document.getElementById("table_body").style.display="";
+
     }
