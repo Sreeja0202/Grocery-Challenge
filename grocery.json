@@ -1,0 +1,77 @@
+{
+    "grocery":[
+        {
+        "Name":"Rice",
+        "Ouantity":"5",
+        "Unit": "Kg",
+        "Department": "Grains",
+        "Notes": "Palakkad Matt"
+
+        },
+        {
+            "Name":"Green Peas",
+            "Ouantity":"500",
+            "Unit": "gm",
+            "Department": "Legumes",
+            "Notes": "Frozen"
+        },
+        {
+            "Name":"Milk",
+            "Ouantity": "2",
+            "Unit": "Packets",
+            "Department": "Diary",
+            "Notes": "Blue colored packet"
+        },
+        {
+            "Name":"Soya Bean",
+            "Ouantity": "1",
+            "Unit": "Kg",
+            "Department": "Legumes",
+            "Notes": "Not Soya Chunks"
+        },
+        {
+            "Name":"Oats",
+            "Ouantity":"2",
+            "Unit": "Kg",
+            "Department": "Cereal",
+            "Notes": "Check expiry dates"
+        },
+        {
+            "Name":"Cumin",
+            "Ouantity": "100",
+            "Unit": "gm",
+            "Department": "Spices",
+            "Notes": "Not Kashmiri but the normal ones"
+        },
+        {
+            "Name":"Fenugreek",
+            "Ouantity": "100",
+            "Unit": "gm",
+            "Department": "Spices",
+            "Notes": "not powder"
+
+        },
+        {
+            "Name":"Oil",
+            "Ouantity": "2",
+            "Unit": "Kg",
+            "Department": "Oil",
+            "Notes": "Coconut Oil"
+        },
+        {
+            "Name":"Paneer",
+            "Ouantity": "500",
+            "Unit": "gm",
+            "Department": "Diary",
+            "Notes": "Frozen ones and  check expiry dates"
+        },
+        {
+            "Name":"Cucumber",
+            "Ouantity": "500",
+            "Unit": "gm",
+            "Department": "Vegetable",
+            "Notes": "Buy Fresh ones"
+        }
+
+    ]
+}
